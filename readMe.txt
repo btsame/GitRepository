@@ -1,2 +1,2 @@
 this is git!
-the authority is bo yang!
+the only authority is bo yang!
